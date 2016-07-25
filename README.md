@@ -1,5 +1,7 @@
 Linq To Excel Demo
 ===============
+[![Build status](https://ci.appveyor.com/api/projects/status/l0juxcd6qe4sdfiu?svg=true)](https://ci.appveyor.com/project/larrynung/linqtoexceldemo)
+
 Introduce how to use [Linq to Excel](https://code.google.com/p/linqtoexcel/)
 
 Reference
